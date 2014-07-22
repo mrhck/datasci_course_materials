@@ -1,2 +1,1 @@
-SELECT count(*) FROM frequency 
-WHERE term='parliament'
+15
